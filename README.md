@@ -1,2 +1,6 @@
 # hello-world
-example repo
+
+
+hi every1...
+
+i m finishing it..
